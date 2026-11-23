@@ -5,7 +5,9 @@ agent for the make.fun bounty
 ["Bring the humans with a TikTok ad"](https://make.fun/bounty/bring-the-humans-03)
 ($500 over the top 20, places by the video's real views).
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-c41c83)](https://make.fun/bounty/bring-the-humans-03)
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/Anggizx90/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/Anggizx90/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 [![TikTok ad](https://img.shields.io/badge/TikTok-vertical%20ad-000000)](https://www.tiktok.com/)
 [![Node 22](https://img.shields.io/badge/node-%3E%3D22.18-339933)](https://nodejs.org/)
 
